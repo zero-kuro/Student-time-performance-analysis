@@ -83,5 +83,5 @@ The notebook contains the full exploratory analysis, preprocessing decisions, mo
 
 ## Data Source
 
-Student Performance and Study Habits Dataset — Kaggle
+harshadapatil31/student-performance-and-study-habits-dataset
 
